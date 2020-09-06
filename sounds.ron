@@ -1,0 +1,81 @@
+(
+	default_img: "default.jpg",
+	name: "Team Fortress 2",
+	sounds: [
+		(
+			name: "PootisEngage",
+			wav: "POOTIS ENGAGE.wav",
+			img: Some("POOTIS ENGAGE.png")
+		),
+		(
+			name: "Maybe",
+			wav: "Maybe.wav",
+			img: Some("Maybe.png")
+		),
+		(
+			name: "Hoh the memes",
+			wav: "the_memes.wav",
+			img: None
+		),
+		(
+			name: "My body tells me yes",
+			wav: "my_body_tells_yes.wav",
+			img: None
+		),
+		(
+			name: "Somebody!",
+			wav: "somebody.wav",
+			img: None
+		),
+		(
+			name: "Pootis!",
+			wav: "pootis.mp3",
+			img: None
+		),
+		(
+			name: "AAAAAAAAAA",
+			wav: "BASS_AA.wav",
+			img: Some("aaaa.png")
+		),
+		(
+			name: "Good memes",
+			wav: "good_memes.wav",
+			img: None
+		),
+		(
+			name: "Bulletproof",
+			wav: "bulletproof.wav",
+			img: None
+		),
+		(
+			name: "Jeesus!",
+			wav: "jesus.wav",
+			img: None
+		),
+		(
+			name: "Let me in!!!",
+			wav: "let me in.wav",
+			img: None
+		),
+		(
+			name: "Sandvich",
+			wav: "sandvich.wav",
+			img: None
+		),
+		(
+			name: "I need a medic bag",
+			wav: "medic bag.wav",
+			img: None
+		),
+		(
+			name: "HONHONHON",
+			wav: "honhonhon.mp3",
+			img: None
+		),
+		(
+			name: "You have chosen death",
+			wav: "you have chosen death.wav",
+			img: None
+		),
+	]
+)
