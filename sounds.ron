@@ -77,5 +77,10 @@
 			wav: "you have chosen death.wav",
 			img: None
 		),
+		(
+			name: "Deadly skill",
+			wav: "deadlyskill.wav",
+			img: None
+		)
 	]
 )
