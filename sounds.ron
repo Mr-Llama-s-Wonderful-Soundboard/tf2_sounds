@@ -81,6 +81,16 @@
 			name: "Deadly skill",
 			wav: "deadlyskill.wav",
 			img: None
+		),
+		(
+			name: "I have never been so HORNY",
+			wav: "I have Never Been More HORNY.wav",
+			img: Some("i have never been so horny.png"),
+		),
+		(
+			name: "HORNY",
+			wav: "HORNY.wav",
+			img: Some("Horny.png")
 		)
 	]
 )
