@@ -91,6 +91,36 @@
 			name: "HORNY",
 			wav: "HORNY.wav",
 			img: Some("Horny.png")
+		),
+		(
+			name: "Nope",
+			wav: "engi_nope.wav",
+			img: None
+		),
+		(
+			name: "BONK!",
+			wav: "bonk.wav",
+			img: None
+		),
+		(
+			name: "Da",
+			wav: "da.wav",
+			img: None
+		),
+		(
+			name: "Hon",
+			wav: "hon.wav",
+			img: None
+		),
+		(
+			name: "*snort*",
+			wav: "snort.mp3",
+			img: None
+		),
+		(
+			name: "Gentlemen~",
+			wav: "spy_gentlemen.mp3",
+			img: None
 		)
 	]
 )
