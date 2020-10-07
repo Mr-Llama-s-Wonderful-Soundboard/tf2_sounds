@@ -125,7 +125,7 @@
 		(
 			name: "Mentlegen~",
 			wav: "spy_mentlegen.wav",
-			img: None
+			img: Some("mentlegen.png")
 		)
 	]
 )
