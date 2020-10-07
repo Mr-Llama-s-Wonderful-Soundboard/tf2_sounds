@@ -121,6 +121,11 @@
 			name: "Gentlemen~",
 			wav: "spy_gentlemen.mp3",
 			img: None
+		),
+		(
+			name: "Mentlegen~",
+			wav: "spy_mentlegen.wav",
+			img: None
 		)
 	]
 )
